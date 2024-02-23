@@ -9,13 +9,6 @@ My any repository related to AI, ML, DL, web development, software development a
 
 I also attachment my certifficate from my learning course in this repository : https://github.com/sencesco/My_Certificated
 
-
-
-## License
-
-My public  repository have a licenses: [MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to me at somchai.kdt@gmail.com or create pull request at that repository or project.
