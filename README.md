@@ -12,7 +12,7 @@ My interests span machine learning (including reinforcement learning) and deep l
   
 - **Computer Vision:** Visual understanding, image processing, and modern techniques
   
-- **NLP & LLMs:** Language processing, language models, fine-tuning, retrieval-augmented generation, and AI agent ochrestration
+- **NLP & LLMs:** Language processing, language models, fine-tuning, retrieval-augmented generation, and AI agent orchestration
   
 - **Software & ML Engineering:** Python, APIs, application development, testing, and model workflows
   
