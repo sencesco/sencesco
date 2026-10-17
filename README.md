@@ -48,7 +48,7 @@ Some repositories contain independent work, while others build on educational ma
 
 ## 📚 Learning, Investigation & Sharing
 
-I learn from a variety of sources, including courses, books, research papers, technical articles, documentation, and hands-on experimentation.
+I learn from a variety of sources, including courses, books, papers, journals, technical articles, documentation, and hands-on experimentation.
 
 I use these resources to investigate questions, build understanding, test ideas, and develop projects. Selected findings, experiences, explanations, and project notes are shared on my blog.
 
