@@ -1,6 +1,6 @@
 # Hi, I'm Somchai 👋
 
-**AI/ML Practitioner | Independent Technical Explorer**
+**AI/ML Practitioner | Technical Explorer**
 
 My interests span machine learning (including reinforcement learning) and deep learning, including computer vision, natural language processing and large language model. I also explore software development, computing hardware, operating systems, and other areas of computer technology.
 
